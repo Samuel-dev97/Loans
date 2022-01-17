@@ -1,0 +1,14 @@
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\bin\Debug\Loans.exe.config
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\bin\Debug\Loans.exe
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\bin\Debug\Loans.pdb
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.csproj.AssemblyReference.cache
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Customer.resources
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Form1.resources
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Interest.resources
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Loan.resources
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Properties.Resources.resources
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.csproj.GenerateResource.cache
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.exe
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.pdb
+C:\Users\SAMUEL SIKAZWE\Desktop\WindowsProjects\Loans\Loans\obj\Debug\Loans.Small.resources
